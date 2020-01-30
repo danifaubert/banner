@@ -35,4 +35,6 @@ html {
   left: 0;
   bottom: 0;
   color: #fff;
+  display: block;
+  align-items: center;
 }
